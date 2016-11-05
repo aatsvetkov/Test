@@ -6,6 +6,5 @@ public class Main {
     int x = 3;
     int s = 3;
     int r = 3;
-    int a = 1;
-    int zz = 4;
+    int k = 4;
 }
