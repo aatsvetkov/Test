@@ -2,5 +2,6 @@
  * Created by cccve on 05.11.2016.
  */
 public class Main {
-    int k = 3;
+    int i = 0;
+    int x = 3;
 }
