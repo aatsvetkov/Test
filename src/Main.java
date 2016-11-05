@@ -3,5 +3,5 @@
  */
 public class Main {
     int i = 0;
-    int x = 3;
+
 }
